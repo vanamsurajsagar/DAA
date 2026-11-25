@@ -1,6 +1,6 @@
 # Design and Analysis of Algorithms (DAA) Practicals
 
-This repository contains DAA practical programs and their execution-output screenshots, arranged in numerical order from Practical 1 to Practical 11.
+This repository contains DAA practical programs and their execution-output screenshots, arranged in numerical order from Practical 1 to Practical 12.
 
 ## Practical Index
 
@@ -61,11 +61,16 @@ This repository contains DAA practical programs and their execution-output scree
 - [floyd warshall algorithm.py](./Practical%2011/floyd%20warshall%20algorithm.py)
 - [floyd warshall algorithm_output.png](./Practical%2011/floyd%20warshall%20algorithm_output.png)
 
+### [Practical 12](./Practical%2012/)
+- [salesmanproblem.py](./Practical%2012/salesmanproblem.py)
+- [salesmanproblem_output.png.jpeg](./Practical%2012/salesmanproblem_output.png.jpeg)
+- [conclusion.txt](./Practical%2012/conclusion.txt)
+
 ## Notes
 
 - Python source files from the uploaded folder have been preserved.
 - Output screenshots are kept with their corresponding practical.
-- Folder names are standardized as `Practical 1` through `Practical 11`.
+- Folder names are standardized as `Practical 1` through `Practical 12`.
 - The Practical 9 conclusion note is saved as `Conclusion.txt`.
 
 ## Running a Program
